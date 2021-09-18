@@ -10,7 +10,7 @@ class TemperatureTest extends TestCase
     /** @test */
     public function it_can_convert_celsius_to_fahrenheit()
     {
-        $lbs = Temperature::forCelsius(100)->toFahrenheit();
-        $this->assertEquals(212, $lbs);
+        $kelvin = Temperature::forCelsius(100)->toFahrenheit();
+        $this->assertEquals(212, $kelvin);
     }
 }
