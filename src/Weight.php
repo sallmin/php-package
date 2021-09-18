@@ -1,7 +1,6 @@
 <?php
 
 namespace Sallmin\PhpPackage;
-use Exception;
 
 class Weight
 {
