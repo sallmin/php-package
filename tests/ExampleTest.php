@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Sallmin\PhpPackage\Tests;
 
 use PHPUnit\Framework\TestCase;
 

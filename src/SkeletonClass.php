@@ -1,7 +1,7 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Sallmin\PhpPackage;
 
-class SkeletonClass
+class PhpPackageClass
 {
 }
